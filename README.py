@@ -5,3 +5,7 @@ Right now, I am a DBA. I have strong interest in machine learning, deep learning
 
 
 In my part time, I also host SLC R study group. 
+import pandas as pd
+import seaborn as sns
+improt matplotlib.pyplot as plt
+%matplotlib inline 
